@@ -19,8 +19,8 @@
   flex-direction: column;
   justify-content: space-between;
   width: 100%;
-  margin-top: 120px;
-  margin-bottom: 120px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 
   color: var(--primary-text-color);
 
@@ -45,13 +45,13 @@
 
     &.korean {
       font-weight: 100;
-      font-size: 32px;
+      font-size: 25px;
       line-height: 1.2;
 
       .title {
         .react-rotating-text-cursor {
-          font-size: 35px;
-          line-height: 35px;
+          font-size: 0px;
+          line-height: 0px;
         }
       }
 
@@ -102,7 +102,7 @@
 
   .thumbnail {
     display: none;
-    width: 250px;
+    width: 150px;
 
     @include md {
       display: block;
