@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: 'UA-134826755-2', // Google Analytics Tracking ID
   author: {
-    name: `김수진`,
+    name: `뚜딘`,
     bio: {
-      role: `개발자`,
-      description: ['계속 발전하는', '사람에 가치를 두는', '함께 협력하는'],
+      role: ``,
+      description: ['인공지능을 공부하는' /*, '사람에 가치를 두는', '함께 협력하는'*/],
       thumbnail: 'ddudin.gif', // Path to the image in the 'asset' folder
     },
     social: {
