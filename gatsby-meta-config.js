@@ -1,5 +1,5 @@
 module.exports = {
-  title: `ddudin Devlog`,
+  title: `Sujin's Devlog`,
   description: `뚜딘의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://sujin530.github.io`,
@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: 'UA-134826755-2', // Google Analytics Tracking ID
   author: {
-    name: `김수진`,
+    name: `Sujin`,
     bio: {
       role: ``,
-      description: ['김수진입니다.'],
+      description: ['Sujin입니다.'],
       thumbnail: 'ddudin.gif', // Path to the image in the 'asset' folder
     },
     social: {
