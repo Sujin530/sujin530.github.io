@@ -1,9 +1,9 @@
 {
-  "name": "ddudin Devlog",
+  "name": "Sujin's Devlog",
   "private": false,
   "description": "A neat blog theme for developers",
   "version": "2.0.0",
-  "author": "ddudin <sujin.kim10530@gmail.com>",
+  "author": "Sujin <sujin.kim10530@gmail.com>",
   "dependencies": {
     "@mui/icons-material": "^5.1.0",
     "@mui/material": "^5.1.0",
