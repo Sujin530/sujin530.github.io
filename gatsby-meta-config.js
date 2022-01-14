@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: 'UA-134826755-2', // Google Analytics Tracking ID
   author: {
-    name: `안녕하세요`,
+    name: `김수진`,
     bio: {
       role: ``,
-      description: ['**김수진** 입니다.'],
+      description: ['김수진입니다.'],
       thumbnail: 'ddudin.gif', // Path to the image in the 'asset' folder
     },
     social: {
