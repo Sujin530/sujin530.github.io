@@ -5,7 +5,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('/Users/sujinkim/github_repos/sujin530.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"zoomkoding.com","short_name":"zoomkoding.com","description":"줌코딩의 개발일기","lang":"en","display":"standalone","start_url":"/","icon":"static/favicon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"ad9e124e5060ab5ddbaf24744e1cfc72"},
+      options: {"plugins":[],"name":"ddudin Devlog","short_name":"ddudin Devlog","description":"뚜딘의 개발일기","lang":"en","display":"standalone","start_url":"/","icon":"static/favicon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"ad9e124e5060ab5ddbaf24744e1cfc72"},
     },{
       name: 'gatsby-remark-autolink-headers',
       plugin: require('/Users/sujinkim/github_repos/sujin530.github.io/node_modules/gatsby-remark-autolink-headers/gatsby-ssr'),
