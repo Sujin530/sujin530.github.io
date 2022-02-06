@@ -1,10 +1,10 @@
 ---
 emoji: 📝
 title: 컴퓨테이셔널 씽킹(Computational Thinking)
-date: '2022-02-06 00:00:00'
+date: '2022-02-06 01:00:00'
 author: Sujin
-tags: #코딩도장 #파이썬 #컴퓨테이셔널씽킹
-categories: #공부
+tags: 코딩도장 파이썬 컴퓨테이셔널씽킹
+categories: 노트
 ---
 
 ### 컴퓨테이셔널 씽킹(Computational Thinking)

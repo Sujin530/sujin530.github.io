@@ -1,9 +1,9 @@
 ---
 emoji: 📝
-title: Chapter 7-1. 인공 신경망 정리
+title: 혼공머신 7-1. 인공 신경망 정리
 date: '2022-01-19 00:42:00'
 author: Sujin
-tags: 혼공머신 딥러닝 인공신경망 MNIST
+tags: 혼공머신 머신러닝 딥러닝 인공신경망 MNIST
 categories: 노트
 ---
 
