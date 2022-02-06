@@ -13,6 +13,7 @@ categories: 노트
 * 케라스 API로 합성곱 신경망을 만들어 패션 MNIST 데이터에서 성능을 평가해보기
 * 합성곱 층의 필터와 활성화 출력을 시각화하여 합성곱 신경망이 학습한 내용을 고찰해보기
 
+<img width="460" alt="8-1 (1)" src="https://user-images.githubusercontent.com/67195038/152688254-8d6f7ab7-1cd3-47a0-9b1c-82f3d09d85c0.png">
 
 ### 8-1. 합성곱 신경망의 구성 요소
 
@@ -112,8 +113,9 @@ categories: 노트
 * 마지막에 출력층 전에 특성 맵을 모두 펼쳐서 밀집층의 입력으로 사용함
 
 
+<img width="634" alt="8-1 (2)" src="https://user-images.githubusercontent.com/67195038/152688263-4de396db-d356-44b8-b228-1fdc3a34dce4.png">
 
 ### 용어 정리
-필터
-커널
-특성 맵
+* 필터
+* 커널
+* 특성 맵
