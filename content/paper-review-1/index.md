@@ -8,4 +8,4 @@ categories: 리뷰
 ---
 
 ## Abstract
-![Abstract](/assets/img/paper01_1.png)
+<img src="/assets/img/paper01_1.png" width="90%" height="90%" title="paper1" alt="paper1"/>
