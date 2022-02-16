@@ -8,4 +8,4 @@ categories: 리뷰
 ---
 
 ## Abstract
-![Image Alt 텍스트](/assets/img/paper01_1.png)
+![Abstract](/assets/img/paper01_1.png)
