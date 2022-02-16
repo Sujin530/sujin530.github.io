@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-category-template-js",
     "path": "/posts/리뷰",
-    "result": {"pageContext":{"currentCategory":"리뷰","categories":["All","리뷰","노트","블로그","회고"],"edges":[{"node":{"id":"9986064d-f6d9-594a-9d71-b24843f17194","excerpt":"Abstract Abstract","fields":{"slug":"/paper-review-1/"},"frontmatter":{"categories":"리뷰","title":"논문리뷰 1. 딥러닝 사전학습 언어모델 기술 동향","date":"February 17, 2022"}},"next":{"fields":{"slug":"/hongong-chapter-3-3/"}},"previous":null}]}},
+    "result": {"pageContext":{"currentCategory":"리뷰","categories":["All","리뷰","노트","블로그","회고"],"edges":[{"node":{"id":"9986064d-f6d9-594a-9d71-b24843f17194","excerpt":"Abstract","fields":{"slug":"/paper-review-1/"},"frontmatter":{"categories":"리뷰","title":"논문리뷰 1. 딥러닝 사전학습 언어모델 기술 동향","date":"February 17, 2022"}},"next":{"fields":{"slug":"/hongong-chapter-3-3/"}},"previous":null}]}},
     "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
